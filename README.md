@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: [Contact Detials](https://nasersobhan.com/contact-me-for-hiring)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am from Afghansitan.
+- ⚡ Fun fact: I never had the chance to use github for work, it's just personal projects.
 
