@@ -5,7 +5,7 @@ I am a technically-sophisticated professional offering more than 12 years of rob
 **Technical Proficiencies**
 Expertise: PHP, MySQL, Apache, Docker, and Linux (12+ years)
 
-Full Stack: Node.js/Angular and Python (flask and Django) (5+ Years)
+Full Stack: Node.js/React.js and Python (flask and Django) (5+ Years)
 
 Database: MySQL,SQL Server, PostgreSQL, MongoDB, Google Firebase
 
