@@ -4,10 +4,15 @@ I am a technically-sophisticated professional offering more than 12 years of rob
 
 **Technical Proficiencies**
 Frontend: JavaScript/TypeScript, Bootstrap, React, jQuery
+
 Backend: JavaScript (Node.js / Express.js), PHP (Laravel, Vanilla PHP)
+
 Database: MySQL, MongoDB and DynamoDB
+
 API & Data: GraphQL, RESTful API, XML/cXML, JSON API.
+
 Amazon Web Services: RDS, S3, API Gateway, X-Ray, ElastiCache, EC2, SNS, Lambda, IAM, VPC and SQS
+
 
 Here are some ideas to get you started:
 
