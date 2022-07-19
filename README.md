@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: [Contact Detials](https://nasersobhan.com/contact-me-for-hiring)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I never had the chance to use github for work, it's just personal projects.
+- ⚡ Fun fact: I code when I am sad/angery or upset, it keeps me of this harsh world but I enjoy coding and building something.
 
