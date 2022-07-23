@@ -17,10 +17,10 @@ Amazon Web Services: RDS, S3, API Gateway, X-Ray, ElastiCache, EC2, SNS, Lambda,
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on SDLC/Arch
-- 🌱 I’m currently learning SDLC/Arch
-- 👯 I’m looking to collaborate on PHP/Node.js Projects
-- 🤔 I’m looking for help with PHP/Node.js Project which is linked to GIS data.
+- 🔭 I’m currently working on SDLC/Architecture
+- 🌱 I’m currently learning SDLC/Architecture
+- 👯 I’m looking to collaborate on PHP/Node.js/React Projects
+- 🤔 I’m looking for help with PHP/Node.js/React SaaS, PaaS.
 - 💬 Ask me about ...
 - 📫 How to reach me: [Contact Detials](https://nasersobhan.com/contact-me-for-hiring)
 - 😄 Pronouns: He/Him
