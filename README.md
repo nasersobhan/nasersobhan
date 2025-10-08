@@ -1,34 +1,8 @@
-### Hi there 👋
+Principal Software Engineer with over 15 years of experience in software development, Focused in Software Engineering, AI, GenAI, and leadership throughout the Software Development Life Cycle (SDLC). Proven track record in leading global teams, optimizing CI/CD pipelines, and delivering high-quality software solutions. Skilled in cloud platforms (AWS, Azure, Google Cloud), DevOps (Terraform, Jenkins, GitLab), and programming languages (JavaScript, Python). Expertise in technical architecture, data integration, and agile project management. A results-oriented leader committed to innovation, continuous improvement, and fostering a collaborative team environment.
 
-I am Naser a meticulous and diligent professional with highly experienced in software management, systems architecture, enterprise application integration, application design, development, maintenance, and quality assurance spanning multiple industries.
-
-I have a remarkable background in directing technical teams as well as projects from start to end, developing/executing strategic business plans and control structures for projects, and ensuring successful completion within time and budget.
-
-My expertise lies in advanced development methodologies, tools, and processes; leveraged to design and roll out cutting-edge software applications.
-
-I’m a tech-savvy leader with solid history of success in conducting training and development programs and building and managing cross-functional teams to achieve shared visions and goals.
-
-I am confident that my wide range of knowledge and talents will allow me to contribute to the success of your company. While others take pride in meeting all standards set before them: my passion is for delivering service and leadership that goes beyond organizational expectations. Connect with me today or send me an email at me@nasersobhan.com or contact me if you want to discuss additional details regarding my work experience and the skills I have to offer. I’m always interested in making new professional acquaintances!
-
-**Technical Proficiencies**
-
-Frontend: JavaScript/TypeScript, Bootstrap, React, jQuery
-Backend: JavaScript (Node.js / Express.js), PHP (Laravel, Vanilla PHP)
-
-Database: MySQL, MongoDB and DynamoDB
-
-API & Data: GraphQL, RESTful API, XML/cXML, JSON API.
-
-Amazon Web Services: RDS, S3, API Gateway, X-Ray, ElastiCache, EC2, SNS, Lambda, IAM, VPC and SQS
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on SDLC/Architecture/SDM
-- 🌱 I’m currently learning SDLC/Architecture/SDM
-- 👯 I’m looking to collaborate on Any Software Projects
-- 🤔 I’m looking for help with SaaS, PaaS.
-- 💬 Ask me about ...
-- 📫 How to reach me: [Contact Detials](https://nasersobhan.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+Skills
+AI & GenAI: TensorFlow, IBM Watson, LangChain, OpenCV, Semantic Search, Vector Databases (Faiss, Chroma DB), Search AI, RAG, Llama2, GPT-4, BERT, PaLM, Gemini, Embedding & Vectorization, Google GenAI (Vertex AI, Generative AI Studio)
+Cloud & DevOps: AWS, Azure, Google Cloud, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitLab, CloudFormation, VMware, Linux scripting
+Development: Python, JavaScript, TypeScript, React.js, Next.js, PHP, VB .Net, Java, GraphQL
+Data Management & Databases: MySQL, SQL Server, PostgreSQL, Oracle, MongoDB, RESTful API, Redis, Elasticsearch, RDS, SQS, XML, JSON, GeoJSON, Prisma
+Other: CI/CD pipeline management, ESRI ArcGIS, Data Pipeline Development, Virtualization, Code Quality Assurance, Agile Methodologies, Team Leadership & Mentorship, SDLC Optimization
